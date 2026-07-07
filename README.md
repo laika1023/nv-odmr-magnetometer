@@ -1,6 +1,5 @@
 # Open-Source NV-Center ODMR Magnetometer
 
-<!-- HERO IMAGE: replace with your best apparatus photo once you have one -->
 ![Apparatus](media/hero.jpg)
 
 **A benchtop optically detected magnetic resonance (ODMR) magnetometer built on nitrogen-vacancy centers in diamond — designed, funded, and built independently by an undergraduate for under $2,000, with full replication documentation.**
@@ -9,7 +8,7 @@
 
 ## Headline result
 
-<!-- Replace with your ODMR spectrum / Zeeman calibration figure when available -->
+<!-- Replace with ODMR spectrum / Zeeman calibration figure when available -->
 *First ODMR spectrum targeted Sep 30, 2026.*
 
 ## What this is
