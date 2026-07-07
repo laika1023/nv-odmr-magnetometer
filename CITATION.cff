@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Open-Source NV-Center ODMR Magnetometer"
+authors:
+  - family-names: Hochberg
+    given-names: Julius
+    affiliation: "Brown University"
+version: 0.1.0
+date-released: 2026-07-15
+url: "https://github.com/YOURUSERNAME/nv-odmr-magnetometer"
+license: MIT

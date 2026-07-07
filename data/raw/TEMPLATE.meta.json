@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-30",
+  "operator": "JH",
+  "phase": 3,
+  "run": 1,
+  "description": "CW ODMR sweep, first dip attempt",
+  "config": {
+    "laser_power_mW": 4.5,
+    "mw_power_dBm_at_antenna": 20,
+    "antenna": "wire-loop-v1",
+    "sweep_Hz": [2.6e9, 3.1e9],
+    "points": 801,
+    "averages": 200,
+    "modulation_Hz": 1000,
+    "adc": "ADS1115 @ 860 sps",
+    "magnet": "none",
+    "temperature_C": 22
+  },
+  "files": ["2026-09-30_run01_odmr.csv"],
+  "notes": "Anything odd about this run"
+}

@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+report/*.pdf
+!report/released/*.pdf
+
+# KiCad backups
+*-backups/
+*.kicad_pcb-bak
+_autosave-*
+
+# Large raw data: keep curated data in-repo; archive full sets on Zenodo.
+# Uncomment if raw files exceed ~50 MB:
+# data/raw/*.bin
+
+# OS junk
+.DS_Store
+Thumbs.db

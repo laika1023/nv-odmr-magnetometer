@@ -1,0 +1,6 @@
+category,item,spec,vendor,part_no,qty,est_price_usd,price_paid_usd,date_ordered,received,notes
+optics,Longpass filter,"600 nm cut-on, Ø25 mm hard-coated",Thorlabs,FELH0600,2,320,,,,stack both in front of PD
+sample,NV diamond plate,"~3x3x0.5 mm, ~1 ppm NV",Adamas Nanotechnologies,DNV-series,1,450,,,,email for CW-ODMR recommendation
+rf,MW synthesizer board,"35 MHz–4.4 GHz, ADF4351",Amazon,generic-ADF4351,1,45,,,,SPI via Pi Pico
+rf,Power amplifier,"2–4 GHz, 1–2 W, verify gain at 2.87 GHz",AliExpress,TBD,1,120,,,,order spare; verify with AD8318
+detection,Amplified Si photodiode,"Ø9.8 mm, switchable gain",Thorlabs,PDA100A2,1,500,,,,confirm PSU included
